@@ -1,0 +1,21 @@
+1. First step - draft out what app will do
+
+
+TAILWIND
+
+
+xs:
+md:
+lg:
+xl:
+
+space-x-4 spaces out items in a flex container evenly
+
+npm install tailwind-scrollbar --save-dev
+
+When installing tailwind plugins save as dev dependency as reduces bundle size
+
+truncate - shortens text...
+
+
+REACT
